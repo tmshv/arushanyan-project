@@ -12,3 +12,4 @@
 4. run ```npm install``` once
 5. run ```node server.js``` to start
 6. open [localhost:8000](http://localhost:8000) in browser
+7. Enjoy!
